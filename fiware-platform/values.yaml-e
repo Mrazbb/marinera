@@ -1,4 +1,4 @@
-source:  https://github.com/Mrazbb/marinera
+source: https://github.com/FIWARE-Ops/marinera
 release: demo
 destination_namespace: &destination demo
 branch: &branch main

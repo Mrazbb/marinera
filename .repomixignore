@@ -1,0 +1,18 @@
+# Repomix artifacts
+documentation
+apply_patch.txt
+k3s/k3s-kubeconfig.yaml
+**/repomix-output.md
+
+**/apply_patch.txt
+
+**/node_modules/
+**/dist/
+**/build/
+**/coverage/
+**/logs/
+**/tmp/
+**/temp/
+**/.git/
+**/.vscode/
+**/.idea/
